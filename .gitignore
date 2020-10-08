@@ -1,5 +1,5 @@
 # VSCode parameters
-.vscode
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -142,3 +142,4 @@ cython_debug/
 
 #Production key
 dj_tuto/secrets.py
+.vscode/settings.json

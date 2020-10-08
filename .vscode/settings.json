@@ -2,5 +2,10 @@
     "python.pythonPath": "/home/lomi/Documents/PythonProject/VirtualEnvs/dj-venv/bin/python",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "beautify.language": {
+        "html": [
+            "htm", "html", "django-html"
+        ]
+    }
 }
